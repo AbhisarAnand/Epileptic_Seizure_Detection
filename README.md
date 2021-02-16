@@ -1,1 +1,1 @@
-# Epileptic_Seizure_Detection
+# Epileptic Seizure Detection
